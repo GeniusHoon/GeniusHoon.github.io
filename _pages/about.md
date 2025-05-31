@@ -47,7 +47,7 @@ all about my career and dev portfolio, study
 - Achieved **Samsung Certification Pro**.
 
 ### 2025
-- Achieved *** Samsung DataScience Level 2***
+- Achieved ***Samsung DataScience Level 2***
 - Engaged in **TWS (True Wireless Stereo) audio device development**, such as:
   - **Galaxy Buds 3 FE**
 - Core responsibilities:
