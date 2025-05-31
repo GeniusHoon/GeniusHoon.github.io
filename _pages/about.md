@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Career and Dev study"
+title: "Professional Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
-# Professional Journey
+all about my career and dev portfolio, study
 
 ## 🎓 Education
 - **Graduated** from Suwon High-tech Meister High School(Electronics and Microcontroller)
