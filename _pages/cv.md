@@ -7,41 +7,68 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 🎓 Education
+- **Graduated** from Suwon High-tech Meister High School(Electronics and Microcontroller)
+- **Major** 'Software Convergence Engineering' from Inha University (2027)
+## 💼 Internships
+- **2014:** Interned at Samsung Electronics
+- **2015:** Interned at Samsung Electronics
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🚀 Career at Samsung Electronics
+### 2016 ~ 2019
+- Managed the **Acoustic Laboratory** and worked on **standardized testing regulations**.
+- Participated as an assistant in building an **automated call quality testing program**:
+  - Languages & Tools: **C#, Aqua4.0**, National Instruments API-based.
+  - Took charge of its **maintenance**.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### 2019 ~ 2022
+- Specialized in **mobile device audio development** for mid-range segments (A-Series, rugged phones):
+  - Focused on **audio performance fine-tuning**.
+- Independently developed expertise in **reverse-engineered audio parameters** review:
+  - Platforms: **Mediatek**, **LSI**.
+- Enrolled in **Inha University's Software Convergence Engineering Program** (2020).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### 2022 ~ 2023
+- Took a **leave of absence** for **military service**.
+- Served as a **radar maintenance technician** at Seoul Airport:
+  - Honorably discharged as **sergeant**.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### 2024
+- Engaged in **TWS (True Wireless Stereo) audio device development**, such as:
+  - **Galaxy Buds 3**
+  - **Galaxy Buds 3 Pro**
+- Core responsibilities:
+  - **Audio solution porting** and **UX development**.
+  - **ANC (Active Noise Cancellation)** and **Adaptive EQ porting**.
+  - Supported advanced projects like **hearing assistance**.
+- **Programming languages:** **C, C++**.
+- Achieved **Samsung Certification Pro**.
+
+### 2025
+- Achieved ***Samsung DataScience Level 2***
+- Engaged in **TWS (True Wireless Stereo) audio device development**, such as:
+  - **Galaxy Buds 3 FE**
+- Core responsibilities:
+- **Same as 2024** and  **Auto Volume**
+- **Auto Volume** : ML based personalized volume solution. (SNR based)
+
+---
+
+📌 **Skills & Expertise:**  
+- Audio Domain DSP : ANC | Adaptive EQ(Frequency Domain Adaptive Filter) | Hearing Aid
+- Programming (C, C++, Python) | Automated testing programs | AI based Problem classifying  
+- Embedded SW | TWS SW UX development | Android
+
+🌟 **Certifications:**  
+- **Samsung Certification** Pro
+  - Skill of **Problem Solving**, **Implementation**
+- **Data Science**  Samsung Professional DataScience Level 2
+  - Understanding the basic theories of data science and the use of machine learning models
+- **SW Architect**  Sasmung Associate Architect
+  - Undestandings of OOP, OOAD, Design Patterns and the software development lifecycle
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+<!--
+ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +89,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
